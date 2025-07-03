@@ -1,4 +1,4 @@
-# Note: Some of the visualisations might not be visible from the attached notebook due to their javascript dependency. Hence please refer to the nbviewer file from [here | (https://github.com/debajyotid/Personalisation-by-Customer-Segments/blob/main/Code.ipynb)]
+# Note: Some of the visualisations might not be visible from the attached notebook due to their javascript dependency. Hence please refer to the nbviewer file from [here](https://github.com/debajyotid/Personalisation-by-Customer-Segments/blob/main/Code.ipynb) .
 
 # Personalisation-by-Customer-Segments
 Use data-driven insights to build customer personas and use the same to drive optimized marketing strategies
