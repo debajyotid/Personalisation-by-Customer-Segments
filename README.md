@@ -1,6 +1,6 @@
 # Personalisation-by-Customer-Segments
 Use data-driven insights to build customer personas and use the same to drive optimized marketing strategies
-Note: Some of the visualisations might not be visible from the attached notebook due to their javascript dependency. For the same, you can refer to the nbviewer file from [here](https://github.com/debajyotid/Personalisation-by-Customer-Segments/blob/main/Code.ipynb) 
+Note: Some of the visualisations might not be visible from the attached notebook due to their javascript dependency. For the same, you can refer to the nbviewer file from [here](https://nbviewer.org/github/debajyotid/Personalisation-by-Customer-Segments/blob/main/Code.ipynb) 
 
 ## Case Study: Personalising the customer experience
 The aim of this case study is to use data to provide a more relevant and engaging experience for customers. We will look to explore how personalised recommendations could be developed and used to enhance the client's customer experience, based on the data provided.
